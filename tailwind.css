@@ -1,0 +1,9 @@
+/* Import Tailwind */
+@import "tailwindcss";
+/* Custom Font Class */
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
+.btn-custom-color{
+    background: #E76F51;
+}
